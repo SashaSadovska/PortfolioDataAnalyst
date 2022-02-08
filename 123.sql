@@ -1,4 +1,4 @@
--- log of SQL queries to execute for solving the mystery
+-- log of my SQL queries for solving the mystery
 
 -- requesting a description from a crime report dated "took place on July 28, 2020 AND that it took place on Chamberlin Street."
 
