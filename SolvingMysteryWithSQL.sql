@@ -1,6 +1,6 @@
 /*
 
-As a part of HarvardX CS50x: CS50's Introduction to Computer Science Course I (as a student) was asked to complete a problem set.
+As a part of HarvardX CS50x: CS50's Introduction to Computer Science Course I worked on a SQL problem set.
 The goal was to write the set of SQL queries and to solve a mystery. I was having so much fun with this very first SQL project. 
 Below is log of my SQL queries for completing the course task and solving the mystery...
 
