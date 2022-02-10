@@ -94,3 +94,7 @@ AND license_plate IN (SELECT license_plate FROM courthouse_security_logs WHERE m
 AND account_number IN (SELECT account_number FROM atm_transactions WHERE month = 7 AND day = 28 AND transaction_type = 'withdraw' AND atm_location = 'Fifer Street')))
 AND month = 7 AND day = 29 ORDER BY hour LIMIT 1))));
 
+
+-- Hurrah! Mystery solved!
+
+
